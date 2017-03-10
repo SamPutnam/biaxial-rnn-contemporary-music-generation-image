@@ -1,6 +1,3 @@
-[pianocalm.com](http://pianocalm.com)
-
-
 Community (Public) AMI on AWS
 <img src="http://i.imgur.com/rDY3j6M.png" width="800">
 
