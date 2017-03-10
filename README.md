@@ -1,4 +1,4 @@
-[pianocalm.com](http://pianocalm.com) Medium's CNAME's are not free since 2.20.2017. $75. New plan.
+[pianocalm.com](http://pianocalm.com)
 
 
 Community (Public) AMI on AWS
